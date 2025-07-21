@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Application.deps.json
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Application.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Application.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Domain.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Infrastructure.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Domain.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\bin\Debug\net8.0\Student_Management_System.Infrastructure.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_.0D65A400.Up2Date
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\refint\Student_Management_System.Application.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\ref\Student_Management_System.Application.dll

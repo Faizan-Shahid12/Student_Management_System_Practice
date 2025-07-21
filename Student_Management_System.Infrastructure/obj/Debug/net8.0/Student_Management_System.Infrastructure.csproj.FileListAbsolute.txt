@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\bin\Debug\net8.0\Student_Management_System.Infrastructure.deps.json
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\bin\Debug\net8.0\Student_Management_System.Infrastructure.runtimeconfig.json
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\bin\Debug\net8.0\Student_Management_System.Infrastructure.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\bin\Debug\net8.0\Student_Management_System.Infrastructure.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\bin\Debug\net8.0\Student_Management_System.Domain.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\bin\Debug\net8.0\Student_Management_System.Domain.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_.9205B46F.Up2Date
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\refint\Student_Management_System.Infrastructure.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\Student_Management_System.Infrastructure.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Infrastructure\obj\Debug\net8.0\ref\Student_Management_System.Infrastructure.dll
