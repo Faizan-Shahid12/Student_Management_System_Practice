@@ -1,9 +1,11 @@
 
+using FluentValidation;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Student_Management_System.Application.Application.Validators;
 using Student_Management_System.Application.Interfaces;
 using Student_Management_System.Application.Services;
 using Student_Management_System.Domain.Entities;
@@ -56,7 +58,7 @@ namespace Student_Management_System
                 });
             });
 
-
+            builder.Services.AddValidatorsFromAssemblyContaining<StudentValidator>();
 
             builder.Services.Configure<DbConnectionSettings>(builder.Configuration.GetSection("ConnectionStrings"));
 

@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using FluentValidation;
+using Student_Management_System.Application.Application.Validators;
 using Student_Management_System.Application.DTO;
 using Student_Management_System.Application.Interfaces;
 using Student_Management_System.Domain.Entities;
@@ -11,18 +13,30 @@ namespace Student_Management_System.Application.Services
         public IStudentRepository StudRepo { get; set; }
         public ICourseRepository CourseRepo { get; set; }
 
-        private readonly IMapper mapper;
+        private IMapper mapper {  get; set; }
 
-        public StudentService(IStudentRepository repo1, ICourseRepository repo2, IMapper mapper1)
+        private IValidator<Student> validator {  get; set; } 
+
+        public StudentService(IStudentRepository repo1, ICourseRepository repo2, IMapper mapper1,IValidator<Student> validator1)
         {
             StudRepo = repo1;
             CourseRepo = repo2;
             mapper = mapper1;
+            validator = validator1;
         }
 
         public async Task AddStudent(StudentDTO student)
         {
             var student1 = mapper.Map<Student>(student);
+
+            var result = validator.Validate(student1);
+
+            if(! result.IsValid)
+            {
+                Console.WriteLine(result.Errors.ToString());
+                return;
+            }
+
             await StudRepo.AddStudent(student1);
         }
 

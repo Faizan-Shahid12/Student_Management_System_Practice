@@ -190,3 +190,7 @@ C:\Users\Administrator\source\repos\Student_Management_System\Student_Management
 C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.Application.pdb
 C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.Infrastructure.pdb
 C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\bin\Debug\net8.0\Student_Management_System.Domain.pdb
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.sourcelink.json
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System\obj\Debug\net8.0\Student_Management_System.MvcApplicationPartsAssemblyInfo.cs

@@ -15,3 +15,4 @@ C:\Users\Administrator\source\repos\Student_Management_System\Student_Management
 C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\refint\Student_Management_System.Application.dll
 C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.pdb
 C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\ref\Student_Management_System.Application.dll
+C:\Users\Administrator\source\repos\Student_Management_System\Student_Management_System.Application\obj\Debug\net8.0\Student_Management_System.Application.sourcelink.json
