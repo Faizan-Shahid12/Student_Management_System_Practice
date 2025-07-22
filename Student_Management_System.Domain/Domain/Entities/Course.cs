@@ -1,8 +1,10 @@
-﻿namespace Student_Management_System.Domain.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Student_Management_System.Domain.Entities
 {
     public class Course
     {
-
+        [Key]
         public string CourseId { get; set; } = string.Empty; 
         public string Title { get; set; } = string.Empty;
         public int Credits { get; set; }
